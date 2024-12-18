@@ -1,9 +1,10 @@
 [project]
 name = "odoo-addons-oca-product-configurator"
-version = "17.0.20241127.1"
+version = "17.0.20241218.0"
 dependencies = [
     "odoo-addon-product_configurator>=17.0dev,<17.1dev",
     "odoo-addon-product_configurator_sale>=17.0dev,<17.1dev",
+    "odoo-addon-website_product_configurator>=17.0dev,<17.1dev",
 ]
 classifiers=[
     "Programming Language :: Python",

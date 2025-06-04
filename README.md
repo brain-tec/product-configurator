@@ -24,16 +24,16 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[product_configurator](product_configurator/) | 14.0.1.4.0 | [![PCatinean](https://github.com/PCatinean.png?size=30px)](https://github.com/PCatinean) | Base for product configuration interface modules
-[product_configurator_mrp](product_configurator_mrp/) | 14.0.1.3.0 | [![PCatinean](https://github.com/PCatinean.png?size=30px)](https://github.com/PCatinean) | BOM Support for configurable products
-[product_configurator_mrp_component](product_configurator_mrp_component/) | 14.0.1.1.3 | [![PCatinean](https://github.com/PCatinean.png?size=30px)](https://github.com/PCatinean) | BOM Support for configurable products
-[product_configurator_purchase](product_configurator_purchase/) | 14.0.1.1.0 | [![PCatinean](https://github.com/PCatinean.png?size=30px)](https://github.com/PCatinean) | Product configuration interface for Purchase
+[product_configurator](product_configurator/) | 14.0.1.4.0 | <a href='https://github.com/PCatinean'><img src='https://github.com/PCatinean.png' width='32' height='32' style='border-radius:50%;' alt='PCatinean'/></a> | Base for product configuration interface modules
+[product_configurator_mrp](product_configurator_mrp/) | 14.0.1.3.0 | <a href='https://github.com/PCatinean'><img src='https://github.com/PCatinean.png' width='32' height='32' style='border-radius:50%;' alt='PCatinean'/></a> | BOM Support for configurable products
+[product_configurator_mrp_component](product_configurator_mrp_component/) | 14.0.1.1.3 | <a href='https://github.com/PCatinean'><img src='https://github.com/PCatinean.png' width='32' height='32' style='border-radius:50%;' alt='PCatinean'/></a> | BOM Support for configurable products
+[product_configurator_purchase](product_configurator_purchase/) | 14.0.1.1.0 | <a href='https://github.com/PCatinean'><img src='https://github.com/PCatinean.png' width='32' height='32' style='border-radius:50%;' alt='PCatinean'/></a> | Product configuration interface for Purchase
 [product_configurator_restriction_policy](product_configurator_restriction_policy/) | 14.0.1.0.0 |  | Adds a Restriction Policy for processing restrictions.
-[product_configurator_sale](product_configurator_sale/) | 14.0.1.2.0 | [![PCatinean](https://github.com/PCatinean.png?size=30px)](https://github.com/PCatinean) | Product configuration interface modules for Sale
-[product_configurator_sale_mrp](product_configurator_sale_mrp/) | 14.0.1.0.2 | [![PCatinean](https://github.com/PCatinean.png?size=30px)](https://github.com/PCatinean) | BOM Support for sales wizard
-[product_configurator_stock](product_configurator_stock/) | 14.0.1.1.0 | [![PCatinean](https://github.com/PCatinean.png?size=30px)](https://github.com/PCatinean) | Product configuration interface module for Stock
-[website_product_configurator](website_product_configurator/) | 14.0.1.2.0 | [![PCatinean](https://github.com/PCatinean.png?size=30px)](https://github.com/PCatinean) | Configure products in e-shop
-[website_product_configurator_mrp](website_product_configurator_mrp/) | 14.0.1.0.0 | [![PCatinean](https://github.com/PCatinean.png?size=30px)](https://github.com/PCatinean) | Website integration of MRP
+[product_configurator_sale](product_configurator_sale/) | 14.0.1.2.0 | <a href='https://github.com/PCatinean'><img src='https://github.com/PCatinean.png' width='32' height='32' style='border-radius:50%;' alt='PCatinean'/></a> | Product configuration interface modules for Sale
+[product_configurator_sale_mrp](product_configurator_sale_mrp/) | 14.0.1.0.2 | <a href='https://github.com/PCatinean'><img src='https://github.com/PCatinean.png' width='32' height='32' style='border-radius:50%;' alt='PCatinean'/></a> | BOM Support for sales wizard
+[product_configurator_stock](product_configurator_stock/) | 14.0.1.1.0 | <a href='https://github.com/PCatinean'><img src='https://github.com/PCatinean.png' width='32' height='32' style='border-radius:50%;' alt='PCatinean'/></a> | Product configuration interface module for Stock
+[website_product_configurator](website_product_configurator/) | 14.0.1.2.0 | <a href='https://github.com/PCatinean'><img src='https://github.com/PCatinean.png' width='32' height='32' style='border-radius:50%;' alt='PCatinean'/></a> | Configure products in e-shop
+[website_product_configurator_mrp](website_product_configurator_mrp/) | 14.0.1.0.0 | <a href='https://github.com/PCatinean'><img src='https://github.com/PCatinean.png' width='32' height='32' style='border-radius:50%;' alt='PCatinean'/></a> | Website integration of MRP
 
 [//]: # (end addons)
 

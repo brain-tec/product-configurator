@@ -6,48 +6,52 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2026-04-12 13:08+0000\n"
+"Last-Translator: Ed-Spain <eduamoros@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration__value_ids
 msgid "Attribute Values"
-msgstr ""
+msgstr "Valores de atributo"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__attribute_line_ids
+#, fuzzy
 msgid "Attributes"
-msgstr ""
+msgstr "Atributos"
 
 #. module: product_configurator_mrp
 #: model:ir.model,name:product_configurator_mrp.model_mrp_bom
+#, fuzzy
 msgid "Bill of Material"
-msgstr ""
+msgstr "Lista de material"
 
 #. module: product_configurator_mrp
 #: model:ir.model,name:product_configurator_mrp.model_mrp_bom_line
 msgid "Bill of Material Line"
-msgstr ""
+msgstr "Línea de lista de materiales"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration_set__bom_line_ids
 msgid "BoM Lines"
-msgstr ""
+msgstr "Líneas BOM (Lista de Materiales)"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_production__config_session_id
 msgid "Config Session"
-msgstr ""
+msgstr "Sesión de configuración"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration__config_set_id
 msgid "Config Set"
-msgstr ""
+msgstr "Conjunto de configuración"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom__config_ok

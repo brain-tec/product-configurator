@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-06-27 06:25+0000\n"
+"PO-Revision-Date: 2026-06-27 06:30+0000\n"
 "Last-Translator: Matjaz Mozetic <matjaz@luxim.si>\n"
 "Language-Team: none\n"
 "Language: sl\n"
@@ -25,7 +25,7 @@ msgstr "Atributi"
 #. module: product_configurator_sale
 #: model:ir.model.fields,field_description:product_configurator_sale.field_sale_order_line__config_session_id
 msgid "Config Session"
-msgstr ""
+msgstr "Konfiguracijska seja"
 
 #. module: product_configurator_sale
 #: model:ir.model.fields,field_description:product_configurator_sale.field_sale_order_line__config_ok
@@ -65,7 +65,7 @@ msgstr "Konfiguracijski koraki"
 #. module: product_configurator_sale
 #: model:ir.model.fields,field_description:product_configurator_sale.field_sale_order_line__custom_value_ids
 msgid "Configurator Custom Values"
-msgstr ""
+msgstr "Vrednosti konfiguratorja po meri"
 
 #. module: product_configurator_sale
 #: model_terms:ir.ui.view,arch_db:product_configurator_sale.sale_order_form_config
@@ -115,7 +115,7 @@ msgstr "Zadnjič posodobljeno"
 #. module: product_configurator_sale
 #: model:ir.model.fields,field_description:product_configurator_sale.field_product_configurator_sale__order_id
 msgid "Order"
-msgstr ""
+msgstr "Nalog"
 
 #. module: product_configurator_sale
 #: model:ir.model.fields,field_description:product_configurator_sale.field_product_configurator_sale__order_line_id
@@ -135,7 +135,7 @@ msgstr "Cena"
 #. module: product_configurator_sale
 #: model:ir.model,name:product_configurator_sale.model_product_configurator_sale
 msgid "Product Configurator Sale"
-msgstr ""
+msgstr "Prodaja konfiguratorja proizvodov"
 
 #. module: product_configurator_sale
 #: model:ir.model.fields,field_description:product_configurator_sale.field_product_configurator_sale__product_img
@@ -150,7 +150,7 @@ msgstr "Različica proizvoda"
 #. module: product_configurator_sale
 #: model_terms:ir.ui.view,arch_db:product_configurator_sale.sale_order_form_config
 msgid "Reconfigure"
-msgstr ""
+msgstr "Ponovno konfiguriraj"
 
 #. module: product_configurator_sale
 #: model:ir.model,name:product_configurator_sale.model_sale_order

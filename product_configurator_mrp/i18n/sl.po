@@ -6,7 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2026-06-27 06:30+0000\n"
+"Last-Translator: Matjaz Mozetic <matjaz@luxim.si>\n"
 "Language-Team: none\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -14,36 +15,37 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration__value_ids
 msgid "Attribute Values"
-msgstr ""
+msgstr "Vrednosti atributov"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__attribute_line_ids
 msgid "Attributes"
-msgstr ""
+msgstr "Atributi"
 
 #. module: product_configurator_mrp
 #: model:ir.model,name:product_configurator_mrp.model_mrp_bom
 msgid "Bill of Material"
-msgstr ""
+msgstr "Kosovnica"
 
 #. module: product_configurator_mrp
 #: model:ir.model,name:product_configurator_mrp.model_mrp_bom_line
 msgid "Bill of Material Line"
-msgstr ""
+msgstr "Postavka kosovnice"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration_set__bom_line_ids
 msgid "BoM Lines"
-msgstr ""
+msgstr "Postavke kosovnice"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_production__config_session_id
 msgid "Config Session"
-msgstr ""
+msgstr "Konfiguracijska seja"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration__config_set_id
@@ -54,27 +56,27 @@ msgstr ""
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom__config_ok
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_production__config_ok
 msgid "Configurable"
-msgstr ""
+msgstr "Konfigurabilno"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__product_tmpl_id
 msgid "Configurable Template"
-msgstr ""
+msgstr "Konfigurabilna predloga"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration_set__name
 msgid "Configuration"
-msgstr ""
+msgstr "Nastavitve"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__config_session_id
 msgid "Configuration Session"
-msgstr ""
+msgstr "Konfiguracijska seja"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__name
 msgid "Configuration Session Number"
-msgstr ""
+msgstr "Številka konfiguracijske seje"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line__config_set_id
@@ -89,88 +91,88 @@ msgstr ""
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__config_step_name
 msgid "Configuration Step"
-msgstr ""
+msgstr "Konfiguracijski korak"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__config_step
 msgid "Configuration Step ID"
-msgstr ""
+msgstr "ID konfiguracijskega koraka"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__config_step_ids
 msgid "Configuration Steps"
-msgstr ""
+msgstr "Konfiguracijski koraki"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration_set__configuration_ids
 msgid "Configurations"
-msgstr ""
+msgstr "Nastavitve"
 
 #. module: product_configurator_mrp
 #. odoo-javascript
 #: code:addons/product_configurator_mrp/static/src/xml/mrp_production_views.xml:0
 msgid "Configure"
-msgstr ""
+msgstr "Nastavi"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration__create_uid
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration_set__create_uid
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Ustvaril"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration__create_date
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration_set__create_date
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Ustvarjeno"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__currency_id
 msgid "Currency"
-msgstr ""
+msgstr "Valuta"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_production__custom_value_ids
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__custom_value_ids
 #: model_terms:ir.ui.view,arch_db:product_configurator_mrp.mrp_production_form_view_config
 msgid "Custom Values"
-msgstr ""
+msgstr "Vrednosti po meri"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration__display_name
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration_set__display_name
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Prikazani naziv"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration__id
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration_set__id
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration__write_uid
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration_set__write_uid
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Zadnji posodobil"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration__write_date
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration_set__write_date
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Zadnjič posodobljeno"
 
 #. module: product_configurator_mrp
 #: model:ir.model,name:product_configurator_mrp.model_mrp_production
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__order_id
 msgid "Manufacturing Order"
-msgstr ""
+msgstr "Proizvodni nalog"
 
 #. module: product_configurator_mrp
 #: model:ir.model,name:product_configurator_mrp.model_mrp_bom_line_configuration
@@ -185,12 +187,12 @@ msgstr ""
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__product_preset_id
 msgid "Preset"
-msgstr ""
+msgstr "Prednastavitev"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__price
 msgid "Price"
-msgstr ""
+msgstr "Cena"
 
 #. module: product_configurator_mrp
 #: model:ir.actions.act_window,name:product_configurator_mrp.action_mrp_bom_line_config_set
@@ -201,7 +203,7 @@ msgstr ""
 #. module: product_configurator_mrp
 #: model:ir.model,name:product_configurator_mrp.model_product_config_session
 msgid "Product Config Session"
-msgstr ""
+msgstr "Seja konfiguracije proizvoda"
 
 #. module: product_configurator_mrp
 #: model:ir.model,name:product_configurator_mrp.model_product_configurator_mrp
@@ -211,32 +213,32 @@ msgstr ""
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__product_img
 msgid "Product Img"
-msgstr ""
+msgstr "Slika proizvoda"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__product_id
 msgid "Product Variant"
-msgstr ""
+msgstr "Različica proizvoda"
 
 #. module: product_configurator_mrp
 #: model:res.groups,name:product_configurator_mrp.group_product_configurator_mrp
 msgid "Products & BOMS"
-msgstr ""
+msgstr "Proizvodi in kosovnice"
 
 #. module: product_configurator_mrp
 #: model_terms:ir.ui.view,arch_db:product_configurator_mrp.mrp_production_form_view_config
 msgid "Reconfigure"
-msgstr ""
+msgstr "Ponovno konfiguriraj"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,help:product_configurator_mrp.field_product_configurator_mrp__product_id
 msgid "Set only when re-configuring a existing variant"
-msgstr ""
+msgstr "Nastavi samo pri ponovnem konfiguriranju obstoječe različice"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__state
 msgid "State"
-msgstr ""
+msgstr "Stanje"
 
 #. module: product_configurator_mrp
 #. odoo-python
@@ -249,14 +251,14 @@ msgstr ""
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__user_id
 msgid "User"
-msgstr ""
+msgstr "Uporabnik"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__value_ids
 msgid "Value"
-msgstr ""
+msgstr "Vrednost"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__weight
 msgid "Weight"
-msgstr ""
+msgstr "Masa"

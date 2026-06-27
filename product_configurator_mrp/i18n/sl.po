@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-06-27 06:30+0000\n"
+"PO-Revision-Date: 2026-06-27 08:46+0000\n"
 "Last-Translator: Matjaz Mozetic <matjaz@luxim.si>\n"
 "Language-Team: none\n"
 "Language: sl\n"
@@ -50,7 +50,7 @@ msgstr "Konfiguracijska seja"
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration__config_set_id
 msgid "Config Set"
-msgstr ""
+msgstr "Konfiguracijski nabor"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom__config_ok
@@ -81,12 +81,12 @@ msgstr "Številka konfiguracijske seje"
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line__config_set_id
 msgid "Configuration Set"
-msgstr ""
+msgstr "Konfiguracijski nabor"
 
 #. module: product_configurator_mrp
 #: model:ir.ui.menu,name:product_configurator_mrp.product_menu_mrp_bom_line_config_set
 msgid "Configuration Sets"
-msgstr ""
+msgstr "Konfiguracijski nabori"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__config_step_name
@@ -177,12 +177,12 @@ msgstr "Proizvodni nalog"
 #. module: product_configurator_mrp
 #: model:ir.model,name:product_configurator_mrp.model_mrp_bom_line_configuration
 msgid "Mrp Bom Line Configuration"
-msgstr ""
+msgstr "Konfiguracija postavke kosovnice MRP"
 
 #. module: product_configurator_mrp
 #: model:ir.model,name:product_configurator_mrp.model_mrp_bom_line_configuration_set
 msgid "Mrp Bom Line Configuration Set"
-msgstr ""
+msgstr "Konfiguracijski nabor postavk kosovnice MRP"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__product_preset_id
@@ -198,7 +198,7 @@ msgstr "Cena"
 #: model:ir.actions.act_window,name:product_configurator_mrp.action_mrp_bom_line_config_set
 #: model:ir.ui.menu,name:product_configurator_mrp.menu_mrp_bom_line_config_set
 msgid "Product Attribute Sets"
-msgstr ""
+msgstr "Nabori atributov proizvoda"
 
 #. module: product_configurator_mrp
 #: model:ir.model,name:product_configurator_mrp.model_product_config_session
@@ -208,7 +208,7 @@ msgstr "Seja konfiguracije proizvoda"
 #. module: product_configurator_mrp
 #: model:ir.model,name:product_configurator_mrp.model_product_configurator_mrp
 msgid "Product Configurator MRP"
-msgstr ""
+msgstr "MRP konfigurator proizvodov"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__product_img
@@ -247,6 +247,8 @@ msgid ""
 "There is no BOM associated with selected product. Please inform the "
 "administrator/manager. [Product: %s]"
 msgstr ""
+"Z izbranim proizvodom ni povezana nobena kosovnica. Obvestite skrbnika/"
+"vodjo. [Proizvod: %s]"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_product_configurator_mrp__user_id
